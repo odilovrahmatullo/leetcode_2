@@ -1,4 +1,4 @@
-package firstUniqChar;
+package first_unique_char;
 
 import java.util.*;
 
